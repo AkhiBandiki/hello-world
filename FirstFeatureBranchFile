@@ -1,0 +1,5 @@
+FirstFeatureBranchFile
+I am new to git and I am learning it using the tutorial
+By default Whenever a repository is created one branch is also created which is master.
+Just now I created another branch called feature.
+After writing this text i will merge both the branches.
